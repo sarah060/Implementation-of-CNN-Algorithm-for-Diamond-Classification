@@ -1,2 +1,2 @@
-# Implementation-of-CNN-Algorithm-for-Diamond-Classification
+# Implementation of Greedy Algorithm for Determine Closest Distance
 Website
